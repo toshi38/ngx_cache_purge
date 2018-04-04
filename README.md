@@ -1,5 +1,8 @@
 About
 =====
+I forked this because the original repo no longer seems to be maintained.  I wanted to
+have a clean release that supports newer nginx and was pinned and able to install PR's on.
+
 `ngx_cache_purge` is `nginx` module which adds ability to purge content from
 `FastCGI`, `proxy`, `SCGI` and `uWSGI` caches.
 
